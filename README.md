@@ -40,4 +40,4 @@
 ９月の末にはリリースを予定しています
 
 
-画面遷移図　figma url [https://www.figma.com/file/8aeUiQfI9ScljG4Z8xn3OO/Untitled?node-id=3%3A26]
+画面遷移図　figma url [https://www.figma.com/file/Bfm1uxD2SQCaoxG04UxYWG/%E3%83%9D%E3%83%BC%E3%83%88%E3%83%95%E3%82%A9%E3%83%AA%E3%82%AA%E9%81%B7%E7%A7%BB%E5%9B%B3%E6%8F%90%E5%87%BA%E7%94%A8?node-id=3%3A3]
