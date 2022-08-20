@@ -38,3 +38,6 @@
 すでに当初の予定より遅くはなっているのですが
 早ければ8/20中にメイン機能実装を開始して9/12までにベータ版を投稿
 ９月の末にはリリースを予定しています
+
+
+画面遷移図　figma url [https://www.figma.com/file/8aeUiQfI9ScljG4Z8xn3OO/Untitled?node-id=3%3A26]
